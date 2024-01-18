@@ -19,8 +19,8 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 
 #### 🪄 Tools 🪄
-![intellijidea](https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white)
-![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellij%20Idea&logoColor=white)
+![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![sourcetree](https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white)
