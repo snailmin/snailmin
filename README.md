@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning spring and springboot.
 
-<img src="https://img.shields.io/badge/https://simpleicons.org/icons/notion.svg-ffffff?style=flat&logo=000000&logoColor=ffffff"/>Notion</a>&nbsp
+<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
 
