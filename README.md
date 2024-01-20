@@ -10,7 +10,7 @@
 <br>
 ## 🧶 Backend Stack 🧶
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-![openjdk](https://img.shields.io/badge/Java-5865F2?style=flat&logo=Java&logoColor=white)
+![openjdk](https://img.shields.io/badge/Java-5865F2?style=flat&logo=openjdk&logoColor=white)
 ![apachemaven](https://img.shields.io/badge/Apachemaven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
