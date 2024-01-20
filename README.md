@@ -31,4 +31,7 @@
 ![sourcetree](https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
+
+![Minjeong's GitHub Status](https://github-readme-stats.vercel.app/api?username=be-anything&show_icons=true)
+
 </div>
