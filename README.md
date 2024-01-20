@@ -2,7 +2,7 @@
 <div align="center">
   
 ### Hi there 👋
-- 🌱 I’m currently learning spring and springboot.
+🌱 I’m currently learning spring and springboot.
 
 ### 🧶 Backend Stack 🧶
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
