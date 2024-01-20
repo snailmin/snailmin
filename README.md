@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=150&section=header&text=Minjeong's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Minjeong's%20Github&fontSize=50)
 
 ### Hi there 👋
 🌱 I’m currently learning spring and springboot.
