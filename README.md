@@ -25,7 +25,7 @@
 <br>
 <br>
 ## 🪄 Tools 🪄
-![intellij IDEA](https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellij%20Idea&logoColor=white)
+![intellij IDEA](https://img.shields.io/badge/intelliJ%20Idea-000000?style=flat&logo=intellij%20Idea&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
