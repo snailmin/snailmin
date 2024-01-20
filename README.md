@@ -5,9 +5,9 @@
 ### Hi there 👋
 🌱 I’m currently learning spring and springboot.
 
-<hr>
+![Minjeong's GitHub Status](https://github-readme-stats.vercel.app/api?username=be-anything&show_icons=true)
 <br>
-
+<br>
 ### 🧶 Backend Stack 🧶
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![openjdk](https://img.shields.io/badge/Java-5865F2?style=flat&logo=Java&logoColor=white)
@@ -34,6 +34,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
 
-![Minjeong's GitHub Status](https://github-readme-stats.vercel.app/api?username=be-anything&show_icons=true)
 
 </div>
