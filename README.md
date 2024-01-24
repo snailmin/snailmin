@@ -7,6 +7,7 @@
 
 ![Minjeong's GitHub Status](https://github-readme-stats.vercel.app/api?username=be-anything&show_icons=true)
 <br>
+![Minjeong's GitHub Status](https://github-readme-stats.vercel.app/api?username=jjaejun&show_icons=true)
 <br>
 ## 🧶 Backend Stack 🧶
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
